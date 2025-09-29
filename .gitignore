@@ -1,0 +1,25 @@
+.env
+envsalud/
+envagents/
+.vscode/
+
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Django / DRF ===
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.mo
+*.pycache/
